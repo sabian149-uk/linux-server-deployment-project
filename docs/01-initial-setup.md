@@ -8,8 +8,7 @@
 *Initial setup of server*
 ---
 
-## 📝 Prerequisites
-*What needs to be in place before starting?*
+## 📝 To do
 
 - [x] Ubuntu Server installed (minimal installation)
 - [x] Server reachable via SSH
